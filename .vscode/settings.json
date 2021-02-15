@@ -1,0 +1,7 @@
+{
+  "deno.enable": true,
+  "editor.formatOnPaste": false,
+  "[typescript]": {
+    "editor.defaultFormatter": "denoland.vscode-deno"
+  }
+}
